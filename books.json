@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "5ff4d48bb2b9341898f5f421"
+  },
+  "bookName": "Justice League",
+  "bookAuthor": "Steve Roger",
+  "description": "Sci-Fi Action",
+  "Rating": "4.0",
+  "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/91JNWWQKGgL._RI_.jpg"
+},{
+  "_id": {
+    "$oid": "5ff5895155ef7513f80b3b49"
+  },
+  "bookName": "Shelock Holmes",
+  "Rating": "4.5",
+  "bookAuthor": "Canon Dyle",
+  "description": "Investigation Story",
+  "imageUrl": "https://resizing.flixster.com/wdiuR61GmxQBoXXfgiy2niosDHI=/206x305/v2/https://flxt.tmsimg.com/assets/p3547340_p_v10_an.jpg"
+},{
+  "_id": {
+    "$oid": "5ff58e1e480c4718b84069b3"
+  },
+  "bookId": 1,
+  "bookName": "Famous Five",
+  "bookAuthor": "Mark Lucas",
+  "description": "Thriller",
+  "Rating": 3,
+  "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjIyMzkwODcxNV5BMl5BanBnXkFtZTgwNTAwMjE3MzE@._V1_UY1200_CR121,0,630,1200_AL_.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ff58ee3480c4718b84069b4"
+  },
+  "bookId": 2,
+  "bookName": "Freedom Found",
+  "bookAuthor": "Warren Fuler",
+  "description": "Philosphy",
+  "Rating": 4.5,
+  "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1489414012i/28700739._UY2560_SS2560_.jpg",
+  "__v": 0
+}]
